@@ -1,4 +1,12 @@
 ## Hi there 👋
+<img src="https://github.com/Saksham-n/Saksham-n/blob/main/pngtree-cute-3d-blob-character-with-bubbles-image_20614535.webp" width="100%" />
+
+### hey.
+
+just a random dude improving every day.
+
+heading toward nothingness  
+still climbing 🏔️
 
 <!--
 **Saksham-n/Saksham-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
